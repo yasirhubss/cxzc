@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vox",
+  "description": "High-fidelity Text-to-Speech generator using Gemini 2.5 Flash TTS model with multiple voice personas and real-time audio synthesis.",
+  "requestFramePermissions": []
+}
